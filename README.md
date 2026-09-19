@@ -21,8 +21,8 @@ This is a Python-based image retrieval model that utilizes various machine learn
 [Content Based Image Retrieval](https://www.youtube.com/watch?v=4b2MZ7c-kzU)
 
 ## Contributors
-- Vedant Funde
 - Preet Savalia
+- Vedant Funde
 - Avadhut Jadhav
 - Malhar Gadge
 - Harshit Raj
